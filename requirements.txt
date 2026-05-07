@@ -1,0 +1,6 @@
+numpy
+ase
+matplotlib
+pandas
+MDAnalysis
+scipy
