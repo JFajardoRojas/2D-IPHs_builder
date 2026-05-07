@@ -267,11 +267,11 @@ ml_ready_test.csv
 | **Batching & ML table pipeline** | `batch_cif_2d.py`, `mof_2d_features.py`, `prune_feature_columns.py`, `attach_mof_features_to_labels.py`, and this documentation: *Fernando* is the current repository maintainer. |
 | **Periodic neighbor search** | `PerodicKDtree_NAMD.py` (custom periodic CKD tree) alongside **MDAnalysis**’s `PeriodicKDTree` in `2D_Histogram.py`. |
 
-Authors
-J. Fernando Fajardo-Rojas, `*Colorado School of Mines*`
-Tsung-Wei Liu, `*Colorado School of Mines*`
-Omar MAnsurov, `*Colorado School of Mines*`
-Diego A. Gómez-Gualdrón, `*Colorado School of Mines*`
+###Authors
+- J. Fernando Fajardo-Rojas, `*Colorado School of Mines*`
+- Tsung-Wei Liu, `*Colorado School of Mines*`
+- Omar Mansurov, `*Colorado School of Mines*`
+- Diego A. Gómez-Gualdrón, `*Colorado School of Mines*`
 
 ---
 
