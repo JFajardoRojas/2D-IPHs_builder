@@ -268,10 +268,10 @@ ml_ready_test.csv
 | **Periodic neighbor search** | `PerodicKDtree_NAMD.py` (custom periodic CKD tree) alongside **MDAnalysis**’s `PeriodicKDTree` in `2D_Histogram.py`. |
 
 Authors
-*J. Fernando Fajardo-Rojas, Colorado School of Mines*
-*Tsung-Wei Liu, Colorado School of Mines*
-*Omar MAnsurov, Colorado School of Mines*
-*Diego A. Gómez-Gualdrón, Colorado School of Mines*
+J. Fernando Fajardo-Rojas, `*Colorado School of Mines*`
+Tsung-Wei Liu, `*Colorado School of Mines*`
+Omar MAnsurov, `*Colorado School of Mines*`
+Diego A. Gómez-Gualdrón, `*Colorado School of Mines*`
 
 ---
 
